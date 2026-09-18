@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Appointment Management System",
+  "description": "A clinical web-based platform for booking, scheduling, and managing hospital appointments with role-based access for patients, doctors, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
